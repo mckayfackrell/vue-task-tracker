@@ -1,4 +1,4 @@
-# [vue-task-tracker](URL)
+# [Task Tracker](URL)
 
 ## Description
 This website provides the user with a simple to-do task creator. The user can add tasks, delete tasks, and mark tasks as complete.
